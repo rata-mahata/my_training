@@ -1,2 +1,2 @@
-# my_training
+# repository for my training
 new readme file
